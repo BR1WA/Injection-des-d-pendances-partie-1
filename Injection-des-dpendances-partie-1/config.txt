@@ -1,0 +1,2 @@
+net.zouitni.ext.DaoImplV2
+net.zouitni.metier.MetierImpl
